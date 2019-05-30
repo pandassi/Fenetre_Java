@@ -26,7 +26,7 @@ public class Frame2 extends JFrame {
         pnl1.add(pnl4,BorderLayout.CENTER);
         this.add(pnl1);
         this.setSize(500, 600);
-        pnl1.setBackground(Color.red);
+        pnl1.setBackground(Color.blue);
         pnl2.setBackground(Color.yellow);
          pnl3.setBackground(Color.green);
           pnl4.setBackground(Color.cyan);
