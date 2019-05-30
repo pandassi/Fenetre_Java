@@ -1,3 +1,4 @@
+/* With the help of professor Sonia Gounar */
 
 import java.awt.BorderLayout;
 import java.awt.Color;
